@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-civardi-3388b3264/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas_civardi)</br>
-![LucasCiv GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCiv&show_icons=true&theme=dracula)
+![LucasCiv GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCiv&show_icons=true&theme=dracula)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCiv&hide_progress=true)
 
 ### Tecnologias utilizadas:
 <div
