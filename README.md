@@ -15,5 +15,5 @@ style="display: inline_block"><br/>
 
 </div>
 
-### Estudante de Engenharia de computação pela Universidade Federal da grande Dourados.
+### Estudante de Engenharia de computação pela Universidade Federal da Grande Dourados.
 ### Email:lucastdcivardi@gmail.com
