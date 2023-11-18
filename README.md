@@ -12,7 +12,7 @@ Olá! Eu sou o Lucas Civardi 👋
     <img height='40em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img height='40em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img height='40em' src="https://cdn.jsdelivr.net/npm/typescript@5.2.2/lib/typescript.min.js" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div>
 
   ##
