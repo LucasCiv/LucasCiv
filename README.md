@@ -13,7 +13,7 @@ Olá! Eu sou o Lucas Civardi 👋
     <img height='40em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" classname="color-blue" >
+    <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       
   </div>
