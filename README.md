@@ -16,7 +16,6 @@ Olá! Eu sou o Lucas Civardi 👋
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
       
   </div>
